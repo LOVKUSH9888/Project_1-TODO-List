@@ -1,0 +1,25 @@
+/*Here * is used for whole page*/
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Poppins:ital,wght@0,700;1,400&display=swap');
+
+*{ 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    fontfamily: "Merriweather", sans-serif;
+}
+
+header {
+    background-color: #f5ba13;
+    margin: auto --16px;
+    padding: 16px 32px;
+    box-sizing: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+header h1{
+    color: #fff;
+    fontfamily: "McLaren", cursive;
+    font-weight: 200;
+}
